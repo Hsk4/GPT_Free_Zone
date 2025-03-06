@@ -1,0 +1,7 @@
+E:\Repos\GPT-Free Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.exe.config
+E:\Repos\GPT-Free Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.exe
+E:\Repos\GPT-Free Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.pdb
+E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.AssemblyReference.cache
+E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.CoreCompileInputs.cache
+E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.exe
+E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.pdb

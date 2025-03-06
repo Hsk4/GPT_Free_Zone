@@ -10,6 +10,8 @@ namespace GPT_Free_Zone
     {
         static void Main(string[] args)
         {
+            //Consonents_Vowels.ConsonentsandVowels();
+            wordFrequencyCounter.FrequencyCounter();
         }
     }
 }
