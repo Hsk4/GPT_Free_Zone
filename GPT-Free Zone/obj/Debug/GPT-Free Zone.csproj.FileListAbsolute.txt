@@ -5,3 +5,10 @@ E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.AssemblyRefe
 E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.CoreCompileInputs.cache
 E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.exe
 E:\Repos\GPT-Free Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.pdb
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.exe.config
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.exe
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\bin\Debug\GPT-Free Zone.pdb
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.exe
+C:\Users\LENOVO\Desktop\Gpt_Free_Zone\GPT_Free_Zone\GPT-Free Zone\obj\Debug\GPT-Free Zone.pdb

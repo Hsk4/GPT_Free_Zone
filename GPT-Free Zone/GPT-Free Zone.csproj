@@ -44,8 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConsonentsVowels.cs" />
+    <Compile Include="fizzbuzz.cs" />
+    <Compile Include="ifElseConversion.cs" />
+    <Compile Include="letterFrequencyCounter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManagement.cs" />
     <Compile Include="wordFrequencyCounter.cs" />
   </ItemGroup>
   <ItemGroup>
